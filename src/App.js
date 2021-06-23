@@ -21,7 +21,7 @@ function App() {
     
     <ThemeProvider theme={theme}>
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/Box-Office/">
           <Home />
         </Route>
 
